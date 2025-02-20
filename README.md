@@ -41,7 +41,7 @@ cd YOUR-REPO-NAME
 ```
 
 ### Set up virtual environment
-1. Create a virtual environment: `python -m venv venv`
+1. Create a virtual environment: `python -m venv venv`venv
 2. Activate the environment:
     - Windows: `source venv/Scripts/activate`
     - Linux/macOS: `source venv/bin/activate` 
